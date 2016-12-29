@@ -1,0 +1,51 @@
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/optimized/BackButton.png
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/optimized/Bell.png
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/optimized/checkbox1.png
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/optimized/checkbox2.png
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/optimized/Evelyn Yu.png
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/optimized/identify.png
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/optimized/kenny.png
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/optimized/Lea Wang.png
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/optimized/license.png
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/optimized/menu.png
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/optimized/message.png
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/bin/iPhoneSimulator/Debug/CarShare.iOS.exe.mdb
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/bin/iPhoneSimulator/Debug/CarShare.iOS.exe
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/CarShare.iOS.exe
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/obj/iPhoneSimulator/Debug/CarShare.iOS.exe.mdb
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/bin/iPhoneSimulator/Debug/CarShare.dll
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/bin/iPhoneSimulator/Debug/CarShare.dll.mdb
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/optimized/BackButton.png
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/optimized/Bell.png
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/optimized/checkbox1.png
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/optimized/checkbox2.png
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/optimized/Evelyn Yu.png
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/optimized/identify.png
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/optimized/kenny.png
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/optimized/Lea Wang.png
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/optimized/license.png
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/optimized/menu.png
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/optimized/message.png
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/bin/iPhoneSimulator/Debug/CarShare.iOS.exe.mdb
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/bin/iPhoneSimulator/Debug/CarShare.iOS.exe
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/CarShare.iOS.exe
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/CarShare.iOS.exe.mdb
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/bin/iPhoneSimulator/Debug/CarShare.dll
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/bin/iPhoneSimulator/Debug/CarShare.dll.mdb
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll

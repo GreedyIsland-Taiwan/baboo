@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CarShare.Phone_Verification_Page">
+	<ContentPage.Content>
+		<StackLayout>
+			<Label Text="請輸入電話號碼" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Font="24" />
+			<Grid>
+				<Entry Placeholder="手機號碼" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand" FontSize="24" WidthRequest="160" HeightRequest="60" />
+				<Entry Placeholder="簡訊驗證碼" VerticalOptions="CenterAndExpand" HorizontalOptions="EndAndExpand" FontSize="24" WidthRequest="160" HeightRequest="60" />
+			</Grid>
+			<Button Text="獲取驗證碼" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" TextColor="Black" BorderWidth="5" BorderRadius="15" BorderColor="Black" WidthRequest="200" HeightRequest="50" FontSize="24" />
+			<Entry Placeholder="邀請碼(選填)" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="24" WidthRequest="160" HeightRequest="60" />
+			<Grid>
+				<Image Source="checkbox1.png" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" WidthRequest="20" HeightRequest="20" />
+				<Label Text="我已閱讀並同意(享卡出行服務條款)" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+			</Grid>
+			<Button Clicked="Submit_Button_Clicked" Text="下一步" TextColor="Black" BorderWidth="10" BorderRadius="15" BorderColor="Aqua" />
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

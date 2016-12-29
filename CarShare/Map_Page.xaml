@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps" x:Class="CarShare.Map_Page">
+	<ContentPage.Content>
+		<StackLayout>
+			<Grid>
+				<Image Source="menu.png" WidthRequest="50" HeightRequest="50" VerticalOptions="StartAndExpand" HorizontalOptions="StartAndExpand">
+					<Image.GestureRecognizers>
+						<TapGestureRecognizer Tapped="OnTapGestureRecognizerTapped" />
+					</Image.GestureRecognizers>
+				</Image>
+				<Label Text="享卡出行" VerticalOptions="StartAndExpand" HorizontalOptions="CenterAndExpand" Font="24" />
+				<Image Source="message.png" WidthRequest="50" HeightRequest="50" VerticalOptions="StartAndExpand" HorizontalOptions="EndAndExpand">
+					<Image.GestureRecognizers>
+						<TapGestureRecognizer Tapped="OnTapGestureRecognizerTapped" />
+					</Image.GestureRecognizers>
+				</Image>
+			</Grid>
+			<SearchBar Text="位置" />
+			<maps:Map WidthRequest="320" HeightRequest="200" x:Name="MyMap" IsShowingUser="true" MapType="Hybrid" />
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

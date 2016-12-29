@@ -1,0 +1,54 @@
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.App.xaml
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.CarSharePage.xaml
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.Phone_Verification_Page.xaml
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.ID_Verification_Page.xaml
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.Map_Page.xaml
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.Car_Owner_Page.xaml
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.Customer_Page.xaml
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.History_Page.xaml
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.Add_A_Car_Page.xaml
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.App.xaml.g.cs
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.CarSharePage.xaml.g.cs
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.Phone_Verification_Page.xaml.g.cs
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.ID_Verification_Page.xaml.g.cs
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.Map_Page.xaml.g.cs
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.Car_Owner_Page.xaml.g.cs
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.Customer_Page.xaml.g.cs
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.History_Page.xaml.g.cs
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.Add_A_Car_Page.xaml.g.cs
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/bin/Debug/CarShare.dll.mdb
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/bin/Debug/CarShare.dll
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.dll
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/obj/Debug/CarShare.dll.mdb
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/bin/Debug/Xamarin.Forms.Core.dll
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/Daphne_Jiang/Documents/Xamarin_Projects/CarShare/CarShare/bin/Debug/Xamarin.Forms.Maps.dll
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.App.xaml
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.CarSharePage.xaml
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.Phone_Verification_Page.xaml
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.ID_Verification_Page.xaml
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.Map_Page.xaml
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.Car_Owner_Page.xaml
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.Customer_Page.xaml
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.History_Page.xaml
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.Add_A_Car_Page.xaml
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.App.xaml.g.cs
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.CarSharePage.xaml.g.cs
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.Phone_Verification_Page.xaml.g.cs
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.ID_Verification_Page.xaml.g.cs
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.Map_Page.xaml.g.cs
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.Car_Owner_Page.xaml.g.cs
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.Customer_Page.xaml.g.cs
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.History_Page.xaml.g.cs
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.Add_A_Car_Page.xaml.g.cs
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/bin/Debug/CarShare.dll.mdb
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/bin/Debug/CarShare.dll
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.dll
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/obj/Debug/CarShare.dll.mdb
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/bin/Debug/Xamarin.Forms.Core.dll
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/bin/Debug/Xamarin.Forms.Maps.dll
