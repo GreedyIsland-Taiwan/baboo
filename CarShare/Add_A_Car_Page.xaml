@@ -1,17 +1,30 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CarShare.Add_A_Car_Page">
 	<ContentPage.Content>
-		<StackLayout>
-			<Image Source="BackButton.png" WidthRequest="50" HeightRequest="50" VerticalOptions="StartAndExpand" HorizontalOptions="StartAndExpand">
-				<Image.GestureRecognizers>
-					<TapGestureRecognizer Tapped="OnTapGestureRecognizerTapped" />
-				</Image.GestureRecognizers>
-			</Image>
-			<Label Text="閒置車輛也可以賺錢?" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Font="18" />
-			<Label Text="每日坐在家裡" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Font="18" />
-			<Label Text="為您帶來千元額外收入" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Font="18" />
-			<Label Text="快來試試吧!!" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Font="18" />
-			<Button Text="立即添加您的車輛" FontSize="18" TextColor="Black" BorderWidth="8" BorderRadius="0" BorderColor="Black" />
-		</StackLayout>
+
+
+       <AbsoluteLayout Padding="0">
+		
+  	<Image AbsoluteLayout.LayoutFlags="PositionProportional" AbsoluteLayout.LayoutBounds="0, 0.05, 50, 50" Rotation="0"
+				
+    Source="BackButton_1.png" />
+
+	<Image AbsoluteLayout.LayoutFlags="PositionProportional" AbsoluteLayout.LayoutBounds="0.5, 0.5, 1000, 1000" Rotation="0"
+				
+    Source="lamp.png" Opacity="0.5"/>
+
+	<Label Text="閒置車輛也可以賺錢？" AbsoluteLayout.LayoutBounds="76,205,Autosize,Autosize" Font="20" FontAttributes="Bold" />
+
+	<Label Text="每日坐在家裏" AbsoluteLayout.LayoutBounds="76,255,Autosize,Autosize" Font="20" FontAttributes="Bold" />
+
+	<Label Text="為您帶來千元額外收入" AbsoluteLayout.LayoutBounds="76,305,Autosize,Autosize" Font="20" FontAttributes="Bold" />
+
+	<Label Text="快來試試看!!" AbsoluteLayout.LayoutBounds="76,355,Autosize,Autosize" Font="20" FontAttributes="Bold" />
+			
+	<Button Text="立即添加您的車輛" AbsoluteLayout.LayoutBounds="0,530,320,40" Font="24" FontAttributes="Bold" TextColor="Black" />
+
+		</AbsoluteLayout>
+
+		
 	</ContentPage.Content>
 </ContentPage>

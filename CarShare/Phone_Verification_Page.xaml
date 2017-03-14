@@ -1,19 +1,32 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CarShare.Phone_Verification_Page">
 	<ContentPage.Content>
-		<StackLayout>
-			<Label Text="請輸入電話號碼" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Font="24" />
-			<Grid>
-				<Entry Placeholder="手機號碼" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand" FontSize="24" WidthRequest="160" HeightRequest="60" />
-				<Entry Placeholder="簡訊驗證碼" VerticalOptions="CenterAndExpand" HorizontalOptions="EndAndExpand" FontSize="24" WidthRequest="160" HeightRequest="60" />
-			</Grid>
-			<Button Text="獲取驗證碼" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" TextColor="Black" BorderWidth="5" BorderRadius="15" BorderColor="Black" WidthRequest="200" HeightRequest="50" FontSize="24" />
-			<Entry Placeholder="邀請碼(選填)" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="24" WidthRequest="160" HeightRequest="60" />
-			<Grid>
-				<Image Source="checkbox1.png" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" WidthRequest="20" HeightRequest="20" />
-				<Label Text="我已閱讀並同意(享卡出行服務條款)" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
-			</Grid>
-			<Button Clicked="Submit_Button_Clicked" Text="下一步" TextColor="Black" BorderWidth="10" BorderRadius="15" BorderColor="Aqua" />
-		</StackLayout>
+
+
+       <AbsoluteLayout Padding="0">
+		
+  <Image AbsoluteLayout.LayoutFlags="PositionProportional" AbsoluteLayout.LayoutBounds="0.5, 0.2, 140, 140" Rotation="0"
+				
+    Source="CellPhone.png" />
+
+	<Image AbsoluteLayout.LayoutFlags="PositionProportional" AbsoluteLayout.LayoutBounds="0.95, 0.07, 30, 30" Rotation="0"
+				
+    Source="PlayStationX.png" />
+		
+	<Label Text="請輸入電話號碼" AbsoluteLayout.LayoutBounds="70,40,Autosize,Autosize" Font="24" FontAttributes="Bold" />
+
+	 <Entry Placeholder="手機號碼：" AbsoluteLayout.LayoutBounds="10, 265, 300, 40" Rotation="0" FontSize="24"/>
+
+	<Entry Placeholder="簡訊驗證碼：" AbsoluteLayout.LayoutBounds="10, 325, 220, 40" Rotation="0" FontSize="24" />
+
+	<Button Text="驗證號碼" AbsoluteLayout.LayoutBounds="235,325,76,40" Font="16" FontAttributes="Bold" TextColor="Black" BorderWidth="3" BorderColor="#FF8040" BackgroundColor="#FF8A4A" BorderRadius="10" />
+
+	<Button Text="邀請碼(選填)" AbsoluteLayout.LayoutBounds="111,385,100,40" Font="16" FontAttributes="Bold" TextColor="Black" BorderWidth="3" BorderColor="#FF8040" BackgroundColor="#FF8A4A" BorderRadius="10" />
+
+	<Button Text="下一步" Clicked = "Submit_Button_Clicked" AbsoluteLayout.LayoutBounds="0,500,320,40" Font="16" FontAttributes="Bold" TextColor="Black" BorderWidth="3" BorderColor="#FF8040" BackgroundColor="#FF8A4A" BorderRadius="0" />
+
+		</AbsoluteLayout>
+			
+		
 	</ContentPage.Content>
 </ContentPage>

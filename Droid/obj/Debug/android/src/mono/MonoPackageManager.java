@@ -99,7 +99,6 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "CarShare.Droid.dll" comes first in this list. */
 		"CarShare.Droid.dll",
-		"System.Runtime.dll",
 		"Xamarin.Android.Support.v4.dll",
 		"Xamarin.Android.Support.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
@@ -114,27 +113,7 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
 		"CarShare.dll",
-		"System.Threading.dll",
-		"System.Collections.dll",
-		"System.Collections.Concurrent.dll",
-		"System.Diagnostics.Debug.dll",
-		"System.Reflection.dll",
-		"System.Linq.dll",
-		"System.Runtime.InteropServices.dll",
-		"System.Runtime.Extensions.dll",
-		"System.Reflection.Extensions.dll",
-		"System.Threading.Tasks.dll",
-		"System.ObjectModel.dll",
-		"System.Globalization.dll",
-		"System.ComponentModel.dll",
-		"System.Xml.ReaderWriter.dll",
-		"System.Linq.Expressions.dll",
-		"System.IO.dll",
-		"System.Dynamic.Runtime.dll",
-		"System.Text.RegularExpressions.dll",
 		"Xamarin.Forms.Maps.dll",
-		"System.Resources.ResourceManager.dll",
-		"System.Diagnostics.Tools.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

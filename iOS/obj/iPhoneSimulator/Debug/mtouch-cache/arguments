@@ -1,10 +1,10 @@
-# Version: 10.3.1.7 (cycle8-xi: 8b53676)
-# [first argument, ignore] # /Library/Frameworks/Xamarin.iOS.framework/Versions/10.3.1.7/lib/mtouch/mtouch.exe
-/Library/Frameworks/Xamarin.iOS.framework/Versions/10.3.1.7/lib/mtouch/mtouch.exe \
+# Version: 10.4.0.123 (cycle9: 35d1ccd)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.iOS.framework/Versions/10.4.0.123/lib/mtouch/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.4.0.123/lib/mtouch/mtouch.exe \
 	--cache \
-	"/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/mtouch-cache" \
+	/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
 	--sim \
-	"/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/bin/iPhoneSimulator/Debug/CarShare.iOS.app" \
+	/Users/mac/Desktop/bnb/iOS/bin/iPhoneSimulator/Debug/CarShare.iOS.app \
 	--executable \
 	CarShare.iOS \
 	--fastdev \
@@ -20,7 +20,7 @@
 	--tls-provider=default \
 	--abi=x86_64 \
 	--symbollist \
-	"/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list" \
+	/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
 	--dsym=no \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
@@ -31,15 +31,15 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	-r \
-	"/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll" \
+	/Users/mac/Desktop/bnb/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	"/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll" \
+	/Users/mac/Desktop/bnb/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
 	-r \
-	"/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll" \
+	/Users/mac/Desktop/bnb/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	"/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll" \
+	/Users/mac/Desktop/bnb/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
-	"/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/bin/Debug/CarShare.dll" \
+	/Users/mac/Desktop/bnb/CarShare/bin/Debug/CarShare.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r \
@@ -168,6 +168,12 @@
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Net.WebSockets.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.ObjectModel.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Reflection.Emit.ILGeneration.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Reflection.Emit.Lightweight.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Reflection.Emit.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Reflection.Extensions.dll \
 	-r \
@@ -299,17 +305,17 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll \
 	-r \
-	"/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll" \
+	/Users/mac/Desktop/bnb/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	"/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll" \
+	/Users/mac/Desktop/bnb/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
 	-r \
-	"/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll" \
+	/Users/mac/Desktop/bnb/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	"/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll" \
+	/Users/mac/Desktop/bnb/packages/Xamarin.Forms.2.3.3.175/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
-	"/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/bin/Debug/CarShare.dll" \
+	/Users/mac/Desktop/bnb/CarShare/bin/Debug/CarShare.dll \
 	-r \
-	"/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/CarShare/bin/Debug/Xamarin.Forms.Maps.dll" \
+	/Users/mac/Desktop/bnb/CarShare/bin/Debug/Xamarin.Forms.Maps.dll \
 	--target-framework \
 	"Xamarin.iOS,v1.0" \
-	"/Users/mac/Downloads/(12_27_2016) CarShare 享卡 Xamarin 專案檔/iOS/bin/iPhoneSimulator/Debug//CarShare.iOS.exe" \
+	/Users/mac/Desktop/bnb/iOS/bin/iPhoneSimulator/Debug//CarShare.iOS.exe \

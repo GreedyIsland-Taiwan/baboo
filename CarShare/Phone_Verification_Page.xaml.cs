@@ -7,6 +7,8 @@ namespace CarShare
 {
 	public partial class Phone_Verification_Page : ContentPage
 	{
+		
+
 		public Phone_Verification_Page()
 		{
 			InitializeComponent();

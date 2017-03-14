@@ -2,19 +2,19 @@
 <Sdk>
   <AndroidApiLevel>25</AndroidApiLevel>
   <AndroidApiLevelName>25</AndroidApiLevelName>
-  <AndroidNdkPath>/Users/Daphne_Jiang/Library/Developer/Xamarin/android-ndk/android-ndk-r11c</AndroidNdkPath>
-  <AndroidSdkBuildToolsPath>/Users/Daphne_Jiang/Library/Developer/Xamarin/android-sdk-macosx/build-tools/23.0.2</AndroidSdkBuildToolsPath>
-  <AndroidSdkBuildToolsBinPath>/Users/Daphne_Jiang/Library/Developer/Xamarin/android-sdk-macosx/build-tools/23.0.2</AndroidSdkBuildToolsBinPath>
-  <AndroidSdkPath>/Users/Daphne_Jiang/Library/Developer/Xamarin/android-sdk-macosx</AndroidSdkPath>
+  <AndroidNdkPath>/Users/mac/Library/Developer/Xamarin/android-ndk/android-ndk-r11c</AndroidNdkPath>
+  <AndroidSdkBuildToolsPath>/Users/mac/Library/Developer/Xamarin/android-sdk-macosx/build-tools/24.0.1</AndroidSdkBuildToolsPath>
+  <AndroidSdkBuildToolsBinPath>/Users/mac/Library/Developer/Xamarin/android-sdk-macosx/build-tools/24.0.1</AndroidSdkBuildToolsBinPath>
+  <AndroidSdkPath>/Users/mac/Library/Developer/Xamarin/android-sdk-macosx</AndroidSdkPath>
   <JavaSdkPath>/usr</JavaSdkPath>
   <MonoAndroidBinPath>/Library/Frameworks/Xamarin.Android.framework/Versions/Current/bin</MonoAndroidBinPath>
   <MonoAndroidToolsPath>/Library/Frameworks/Xamarin.Android.framework/Versions/Current/lib/mandroid</MonoAndroidToolsPath>
   <ReferenceAssemblyPaths>
     <ReferenceAssemblyPath>/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/</ReferenceAssemblyPath>
   </ReferenceAssemblyPaths>
-  <TargetFrameworkVersion>v7.0</TargetFrameworkVersion>
-  <ZipAlignPath>/Users/Daphne_Jiang/Library/Developer/Xamarin/android-sdk-macosx/build-tools/23.0.2</ZipAlignPath>
+  <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
+  <ZipAlignPath>/Users/mac/Library/Developer/Xamarin/android-sdk-macosx/build-tools/24.0.1</ZipAlignPath>
   <MonoAndroidIncludePath />
-  <SupportedApiLevel>24</SupportedApiLevel>
+  <SupportedApiLevel>25</SupportedApiLevel>
   <AndroidSequencePointsMode>None</AndroidSequencePointsMode>
 </Sdk>
