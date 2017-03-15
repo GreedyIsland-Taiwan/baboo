@@ -1,0 +1,36 @@
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/BackButton.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/BackButton_1.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/Bell.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/Bell_1.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/CarShare_Start.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/CellPhone.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/checkbox1.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/checkbox2.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/Evelyn Yu.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/identify.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/kenny.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/lamp.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/Lea Wang.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/license.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/menu.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/message.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/MESSAGE_1.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/Person_File.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/Persone_File.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/PlayStationX.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/Yuivelynn.png
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/optimized/
+/Users/mac/Desktop/bnb/iOS/bin/iPhoneSimulator/Release/CarShare.iOS.exe.mdb
+/Users/mac/Desktop/bnb/iOS/bin/iPhoneSimulator/Release/CarShare.iOS.exe
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/CarShare.iOS.exe
+/Users/mac/Desktop/bnb/iOS/obj/iPhoneSimulator/Release/CarShare.iOS.exe.mdb
+/Users/mac/Desktop/bnb/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Core.dll
+/Users/mac/Desktop/bnb/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Platform.dll
+/Users/mac/Desktop/bnb/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Platform.iOS.dll
+/Users/mac/Desktop/bnb/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Xaml.dll
+/Users/mac/Desktop/bnb/iOS/bin/iPhoneSimulator/Release/CarShare.dll
+/Users/mac/Desktop/bnb/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Maps.dll

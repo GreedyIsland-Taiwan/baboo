@@ -1,39 +1,32 @@
-﻿<Properties StartupConfiguration="{CEBD51CD-6900-4887-924C-68401557C929}|Default">
+﻿<Properties StartupConfiguration="{71E534C7-6451-4EDE-8FA1-D06660A77CA1}|Default">
   <MonoDevelop.Ide.ItemProperties.CarShare.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.264CDED8-0A7B-41DD-BFE8-7E4FDB13895E" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CarShare/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarShare/obj/Release/CarShare.Map_Page.xaml.g.cs">
     <Files>
-      <File FileName="CarShare/Map_Page.xaml.cs" Line="24" Column="4" />
-      <File FileName="CarShare/Car_Owner_Page.xaml.cs" Line="27" Column="4" />
+      <File FileName="CarShare/Map_Page.xaml.cs" Line="25" Column="33" />
+      <File FileName="CarShare/Car_Owner_Page.xaml.cs" Line="16" Column="4" />
       <File FileName="iOS/Main.cs" Line="17" Column="1" />
       <File FileName="CarShare/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/7.1.0-43/lib/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1" Column="1" />
+      <File FileName="CarShare/obj/Release/CarShare.Map_Page.xaml.g.cs" Line="20" Column="48" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CarShare" expanded="True">
             <Node name="CarShare" expanded="True">
-              <Node name="Add_A_Car_Page.xaml" expanded="True" />
+              <Node name="Packages" expanded="True" />
               <Node name="App.xaml" expanded="True">
                 <Node name="App.xaml.cs" selected="True" />
               </Node>
               <Node name="Car_Owner_Page.xaml" expanded="True" />
-              <Node name="CarSharePage.xaml" expanded="True" />
-              <Node name="Customer_Page.xaml" expanded="True" />
-              <Node name="History_Page.xaml" expanded="True" />
-              <Node name="ID_Verification_Page.xaml" expanded="True" />
               <Node name="Map_Page.xaml" expanded="True" />
-              <Node name="Phone_Verification_Page.xaml" expanded="True" />
             </Node>
-            <Node name="CarShare.Droid" expanded="True">
-              <Node name="Resources" expanded="True" />
-            </Node>
-            <Node name="CarShare.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="CarShare.ID_Verification_Page">
+	<ContentPage.Content>
+
+
+		
+		<StackLayout>
+			<Label Text="驗證身份" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Font="24" />
+			<ProgressBar Progress="0.5" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" WidthRequest="400" HeightRequest="5" />
+			<Grid>
+				<Label Text="身分證" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand" Font="24" />
+				<Label Text="駕證" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Font="24" />
+				<Label Text="完成" VerticalOptions="CenterAndExpand" HorizontalOptions="EndAndExpand" Font="24" />
+			</Grid>
+			<Image Source="identify.png" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" WidthRequest="100" HeightRequest="150" />
+			<Label Text="請橫向清晰拍攝身分證正反面" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" Font="24" />
+			<Button Clicked="Submit_Button_Clicked" Text="上傳本人身分證照片(正反面)" TextColor="Black" BorderWidth="10" BorderRadius="10" BorderColor="Aqua" />
+		</StackLayout>
+
+		
+	</ContentPage.Content>
+</ContentPage>
